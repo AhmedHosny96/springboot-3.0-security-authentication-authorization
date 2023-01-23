@@ -1,4 +1,4 @@
-package com.hosny.entity;
+package com.hosny.model;
 
 
 import lombok.AllArgsConstructor;

@@ -1,7 +1,7 @@
 package com.hosny.service;
 
 
-import com.hosny.entity.Product;
+import com.hosny.model.Product;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 
